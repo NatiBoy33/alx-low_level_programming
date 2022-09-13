@@ -1,0 +1,17 @@
+#include "main.h"
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+	pri_line(0);
+	pri_line(2);
+	pri_line(4);
+	pri_line(6);
+	pri_line(8);
+	
+	return (0);
+}
